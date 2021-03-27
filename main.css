@@ -1,0 +1,178 @@
+@font-face {
+   font-family: sansationLight;
+   src: url(Sansation-Light.ttf);
+}
+* {
+   font-family: sansationLight;
+}
+body {
+  background-image: url('background.jpg');
+}
+.twitter-btn {
+  background-color: #1da1f2;
+  border: none;
+  color: white;
+  padding: 12px 30px;
+  cursor: pointer;
+  font-size: 20px;
+  width:150px;
+  height:150px;
+  border-radius:10%
+}
+.twitter-btn:hover {
+  background-color: #1a90d9;
+}
+.github-btn {
+  background-color: #0f0f0f;
+  border: none;
+  color: white;
+  padding: 12px 30px;
+  cursor: pointer;
+  font-size: 20px;
+  width:150px;
+  height:150px;
+  border-radius:10%
+}
+.github-btn:hover {
+  background-color: #2e2e2e;
+}
+.facebook-btn {
+  background-color: #4267b2;
+  border: none;
+  color: white;
+  padding: 12px 30px;
+  cursor: pointer;
+  font-size: 20px;
+  width:150px;
+  height:150px;
+  border-radius:10%
+}
+.facebook-btn:hover {
+  background-color: #3a5b9e;
+}
+.dribbble-btn {
+  background-color: #ea4c89;
+  border: none;
+  color: white;
+  padding: 12px 30px;
+  cursor: pointer;
+  font-size: 20px;
+  width:150px;
+  height:150px;
+  border-radius:10%
+}
+.dribbble-btn:hover {
+  background-color: #d1437a;
+}
+.steam-btn {
+  background-color: #1b2838;
+  border: none;
+  color: white;
+  padding: 12px 30px;
+  cursor: pointer;
+  font-size: 20px;
+  width:150px;
+  height:150px;
+  border-radius:10%
+}
+.steam-btn:hover {
+  background-color: #2b415c;
+}
+.google-plus-btn {
+  background-color: #d34836;
+  border: none;
+  color: white;
+  padding: 12px 30px;
+  cursor: pointer;
+  font-size: 20px;
+  width:150px;
+  height:150px;
+  border-radius:10%
+}
+.google-plus-btn:hover {
+  background-color: #b83e2e;
+}
+.spotify-btn {
+  background-color: #1db954;
+  border: none;
+  color: white;
+  padding: 12px 30px;
+  cursor: pointer;
+  font-size: 20px;
+  width:150px;
+  height:150px;
+  border-radius:10%
+}
+.spotify-btn:hover {
+  background-color: #169443;
+}
+.soundcloud-btn {
+  background-color: #ff9533;
+  border: none;
+  color: white;
+  padding: 12px 30px;
+  cursor: pointer;
+  font-size: 20px;
+  width:150px;
+  height:150px;
+  border-radius:10%
+}
+.soundcloud-btn:hover {
+  background-color: #de802a;
+}
+.instagram-btn {
+  background-color: #8134af;
+  border: none;
+  color: white;
+  padding: 12px 30px;
+  cursor: pointer;
+  font-size: 20px;
+  width:150px;
+  height:150px;
+  border-radius:10%
+}
+.instagram-btn:hover {
+  background-color: #722d9c;
+}
+.youtube-btn {
+  background-color: #ff0000;
+  border: none;
+  color: white;
+  padding: 12px 30px;
+  cursor: pointer;
+  font-size: 20px;
+  width:150px;
+  height:150px;
+  border-radius:10%
+}
+.youtube-btn:hover {
+  background-color: #bf0000;
+}
+.twitch-btn {
+  background-color: #6441a4;
+  border: none;
+  color: white;
+  padding: 12px 30px;
+  cursor: pointer;
+  font-size: 20px;
+  width:150px;
+  height:150px;
+  border-radius:10%
+}
+.twitch-btn:hover {
+  background-color: #55378c;
+}
+.email-btn {
+  background-color: #fa3802;
+  border: none;
+  color: white;
+  padding: 12px 30px;
+  cursor: pointer;
+  font-size: 20px;
+  width:150px;
+  height:150px;
+  border-radius:10%
+}
+.email-btn:hover {
+  background-color: #e03100
+}
